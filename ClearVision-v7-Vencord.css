@@ -10,7 +10,7 @@
 /* IMPORT CSS */
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 @import url("https://clearvision.github.io/ClearVision-v7/vencord.css");
-@import url("https://cdn.akamai.steamstatic.com/steam/apps/620980/ss_b65444cc4513f34bd41fa6b0fe96cf11d94fea8d.1920x1080.jpg?t=1622461922");
+@import url("https://cdni.fancaps.net/file/fancaps-animeimages/26170310.jpg");
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
@@ -26,7 +26,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 100%;
-  --background-image: URL("https://cdn.akamai.steamstatic.com/steam/apps/620980/ss_b65444cc4513f34bd41fa6b0fe96cf11d94fea8d.1920x1080.jpg?t=1622461922");
+  --background-image: URL("https://cdni.fancaps.net/file/fancaps-animeimages/26170310.jpg");
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
