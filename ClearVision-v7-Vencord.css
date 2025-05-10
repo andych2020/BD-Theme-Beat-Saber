@@ -25,7 +25,7 @@
   --streaming-color: #593695;
   --offline-color: #808080;
   /* APP BACKGROUND */
-  --background-shading-percent: 100%;
+  --background-shading-percent: 50%;
   --background-image: URL("https://cdni.fancaps.net/file/fancaps-animeimages/26170310.jpg");
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
