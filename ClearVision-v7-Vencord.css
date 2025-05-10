@@ -28,7 +28,7 @@
   --background-shading-percent: 100%;
   --background-image: URL("https://cdni.fancaps.net/file/fancaps-animeimages/26170310.jpg");
   --background-attachment: fixed;
-  --background-filter: saturate(calc(var(--saturation-factor, 1) * 0.5));
+  --background-filter: saturate(calc(var(--saturation-factor, 0.6) * 0.7));
   /* USER POPOUT BACKGROUND */
   --user-popout-image: var(--background-image);
   --user-popout-attachment: var(--background-attachment);
