@@ -26,7 +26,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 100%;
-  --background-image: URL("https://cdn.discordapp.com/attachments/981410835161296896/1380796053380534374/3saUu5e.jpg?ex=68452e09&is=6843dc89&hm=5e64ecfb8567608348804631a9e720b79123a86d78152cdc88b15ad51c38db2f&");
+  --background-image: URL(https://cdn.discordapp.com/attachments/981410835161296896/1380796053380534374/3saUu5e.jpg?ex=68452e09&is=6843dc89&hm=5e64ecfb8567608348804631a9e720b79123a86d78152cdc88b15ad51c38db2f&);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 0.6) * 0.7));
   /* USER POPOUT BACKGROUND */
